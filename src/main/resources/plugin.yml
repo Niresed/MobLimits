@@ -1,0 +1,4 @@
+name: MobLimits
+version: '${project.version}'
+main: me.niresed.moblimits.MobLimits
+api-version: '1.20'
